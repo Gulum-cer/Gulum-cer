@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![My Badge](https://holiday-hack.cloud.corpintra.net/api/v1/users/Gulum-cer/achievements)
+![My Badge](https://https://adventofcode.com/2023/api/v1/users/Gulum-cer/achievements)
 
 
 <!--
