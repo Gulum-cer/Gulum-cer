@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![My Badge](https://holiday-hack.cloud.corpintra.net/api/v1/users/Gulum-cer/achievements)
+
+
 <!--
 **Gulum-cer/Gulum-cer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
