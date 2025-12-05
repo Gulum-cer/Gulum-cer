@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![My Badge](https://https://adventofcode.com/2023/api/v1/users/Gulum-cer/achievements)
+![My Badge](https://adventofcode.com/2023/api/v1/users/Gulum-cer/achievements)
 
 
 <!--
